@@ -281,16 +281,6 @@ The system incorporates a solar-assisted charging mechanism:
 
 ---
 
-## 🎥 Demo
-
-Add your demonstration video link here:
-
-```text
-https://your-demo-link.com
-```
-
----
-
 ## 📄 License
 
 This project is intended for **academic, educational, and research purposes**.
@@ -299,7 +289,7 @@ This project is intended for **academic, educational, and research purposes**.
 
 ## 👨‍💻 Author
 
-**23BEC1064 – Embedded C Project**
+**NITHIN V 23BEC1346 – Embedded C Project**
 
 Developed as a low-cost, solar-assisted autonomous driving platform for indoor navigation and robotics research.
 
